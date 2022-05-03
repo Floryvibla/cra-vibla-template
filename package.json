@@ -1,7 +1,27 @@
 {
-  "name": "my-app",
+  "name": "cra-vibla-template",
   "version": "0.1.0",
-  "private": true,
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "Tudo nosso.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Floryvibla/cra-vibla-template.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/Floryvibla/cra-vibla-template/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.1",
     "@testing-library/jest-dom": "^5.16.4",
@@ -50,5 +70,8 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.0.24"
-  }
+  },
+  "homepage": "https://github.com/Floryvibla/cra-vibla-template#readme",
+  "main": "index.js",
+  "author": ""
 }

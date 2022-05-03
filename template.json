@@ -1,0 +1,29 @@
+{
+    "package": {
+      "dependencies": {
+        "@reduxjs/toolkit": "",
+        "@testing-library/jest-dom": "",
+        "@testing-library/react": "",
+        "@testing-library/user-event": "",
+        "axios": "",
+        "daisyui": "",
+        "node-sass": "",
+        "postcss": "",
+        "postcss-nested": "",
+        "postcss-nesting": "",
+        "postcss-scss": "",
+        "react": "",
+        "react-dom": "",
+        "react-scripts": "",
+        "react-toastify": "",
+        "redux-devtools-extension": "",
+        "sass": "",
+        "tailwindcss-textshadow": "",
+        "react-redux": "",
+        "web-vitals": ""
+      },
+      "eslintConfig": {
+        "extends": ["react-app", "react-app/jest"]
+      }
+    }
+  }
